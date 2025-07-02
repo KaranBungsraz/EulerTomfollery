@@ -1,0 +1,2 @@
+# EulerTomfollery
+Euler code shenanigans
